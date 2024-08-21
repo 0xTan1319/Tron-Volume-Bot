@@ -7,7 +7,7 @@
 
 The **Tron Volume Bot (TRX)** is a powerful, efficient, and cost-effective CLI-based tool designed to generate transaction volume on the TRON blockchain. Whether you're looking to boost your token's visibility on platforms like DEXTools or other decentralized exchange viewers, this bot provides an automated solution to create and manage multiple wallets, fund them, and perform a variety of buy/sell transactions.
 
-Join our Discord community for more scripts & support: discord.gg/solana-scripts
+Join our ***Discord community** for more scripts & support: https://discord.gg/solana-scripts
 
 ## Key Features
 
