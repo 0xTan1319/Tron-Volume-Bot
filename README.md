@@ -1,11 +1,12 @@
 # Tron Volume Bot (TRX) 🚀
 
-[![GitHub stars](https://img.shields.io/github/stars/cicere/tron-volume-bot)](https://github.com/0xTan1319/tron-volume-bot/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/cicere/tron-volume-bot)](https://github.com/0xTan1319/tron-volume-bot/network)
-
 ## Introduction
 
 The **Tron Volume Bot (TRX)** is a powerful, efficient, and cost-effective CLI-based tool designed to generate transaction volume on the TRON blockchain. Whether you're looking to boost your token's visibility on platforms like DEXTools or other decentralized exchange viewers, this bot provides an automated solution to create and manage multiple wallets, fund them, and perform a variety of buy/sell transactions.
+
+## Contact
+
+If you encounter any issues or have any questions, feel free to open an issue on GitHub or reach out me via my [Telegram](https://t.me/shiny0103).
 
 ## Key Features
 
@@ -81,10 +82,5 @@ The bot will begin creating wallets, funding them, and executing transactions ba
 
 - **Compliance**: Ensure that the use of this bot complies with the legal and ethical standards in your jurisdiction.
 - **Risk**: This bot is designed for simulation purposes; use at your own risk.
-
-
-## Support
-
-If you encounter any issues or have any questions, feel free to open an issue on GitHub or reach out me via my [@shiny0103](https://t.me/shiny0103).
 
 ---
